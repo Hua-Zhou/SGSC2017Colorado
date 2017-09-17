@@ -1,4 +1,4 @@
-module SGSC2017Colorado
+module SGSC-2017-Colorado
 
 
 end
